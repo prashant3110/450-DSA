@@ -25,7 +25,7 @@ int main()
     cout<<"Minimum element : "<<mn<<endl;
     
     return 0;
-     
+      
 } 
   
  
